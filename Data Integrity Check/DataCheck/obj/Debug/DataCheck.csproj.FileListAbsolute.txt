@@ -1,0 +1,10 @@
+D:\visual studio 2013\Projects\DataCheck\DataCheck\bin\Debug\DataCheck.exe
+D:\visual studio 2013\Projects\DataCheck\DataCheck\bin\Debug\DataCheck.pdb
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.Form1.resources
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.Properties.Resources.resources
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.exe
+D:\visual studio 2013\Projects\DataCheck\DataCheck\obj\Debug\DataCheck.pdb
+C:\Users\liangyue268\Desktop\毕设课题\stage7\数据校验工具\2.数据校验工具（添加标题、icon，最终完成版）\DataCheck\obj\Debug\DataCheck.exe
+C:\Users\liangyue268\Desktop\毕设课题\stage7\数据校验工具\2.数据校验工具（添加标题、icon，最终完成版）\DataCheck\obj\Debug\DataCheck.pdb

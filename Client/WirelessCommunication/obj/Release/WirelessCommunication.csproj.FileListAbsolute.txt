@@ -1,0 +1,11 @@
+D:\visual studio 2013\Projects\Client\WirelessCommunication\bin\Release\WirelessCommunication.exe
+D:\visual studio 2013\Projects\Client\WirelessCommunication\bin\Release\WirelessCommunication.pdb
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.AboutBox1.resources
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.Form1.resources
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.Properties.Resources.resources
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.exe
+D:\visual studio 2013\Projects\Client\WirelessCommunication\obj\Release\WirelessCommunication.pdb
+C:\Users\liangyue268\Desktop\毕设课题\stage7\类+窗体整合\客户端\7.Client（纠正部分描述，最终完成版2）\WirelessCommunication\obj\Release\WirelessCommunication.exe
+C:\Users\liangyue268\Desktop\毕设课题\stage7\类+窗体整合\客户端\7.Client（纠正部分描述，最终完成版2）\WirelessCommunication\obj\Release\WirelessCommunication.pdb

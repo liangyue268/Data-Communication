@@ -1,0 +1,1 @@
+This small tool is being used to check whether the transmitted data is exactly same as the original data or not.

@@ -1,0 +1,27 @@
+D:\visual studio 2013\Projects\FormDesign\FormDesign\bin\Debug\FormDesign.exe
+D:\visual studio 2013\Projects\FormDesign\FormDesign\bin\Debug\FormDesign.pdb
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.Form1.resources
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.Properties.Resources.resources
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.exe
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.pdb
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.AboutBox1.resources
+D:\visual studio 2013\Projects\FormDesign\FormDesign\obj\Debug\FormDesign.csprojResolveAssemblyReference.cache
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.exe
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.pdb
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\bin\Debug\FormDesign.exe
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\bin\Debug\FormDesign.pdb
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.csprojResolveAssemblyReference.cache
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.AboutBox1.resources
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.Form1.resources
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.Properties.Resources.resources
+C:\Users\liangyue268\Desktop\毕设课题\stage6\窗体设计\4.FormDesign（参数配置完成）\FormDesign\obj\Debug\FormDesign.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.exe
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.pdb
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\bin\Debug\FormDesign.exe
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\bin\Debug\FormDesign.pdb
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.AboutBox1.resources
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.Form1.resources
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.Properties.Resources.resources
+D:\visual studio 2013\Projects\FormDesign-server\FormDesign\obj\Debug\FormDesign.csproj.GenerateResource.Cache

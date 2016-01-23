@@ -1,0 +1,1 @@
+This is the server side which receive data transmitted by client.
